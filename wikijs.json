@@ -8,6 +8,7 @@
     },
     "pkgs": [
         "node",
+        "git",
         "postgresql13-server",
         "postgresql13-client"
     ],
