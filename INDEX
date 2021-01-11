@@ -1,0 +1,11 @@
+{
+    "wiki.js": {
+        "MANIFEST": "wikijs.json",
+        "name": "Wiki.js",
+        "icon": "https://static.requarks.io/logo/wikijs-butterfly.svg",
+        "description": "Wiki.js is a web-based wiki software build on Node.js.",
+        "official": false,
+        "maintainer": "C4ne <32538912+C4ne@users.noreply.github.com>",
+        "homepage": "https://www.wikijs.org/"
+    }
+}
